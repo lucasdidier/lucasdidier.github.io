@@ -1,0 +1,80 @@
+.bg-white {
+	background-color: white;
+}
+
+#experience {
+	margin-top: 40px;
+	margin-bottom: 100px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#experience h1 {
+	font-weight: 500;
+	margin-bottom: 40px;
+}
+
+#social {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+.card {
+	border-style: solid;
+	border-color: rgb(220, 220, 220);
+	border-width: 0.5px;
+	border-radius: 5px;
+	padding: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 16px;
+	min-height: 320px;
+	background-color: white;
+	z-index: 10;
+	  -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+	  -moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);  /* Firefox 3.5 - 3.6 */
+	  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+.img-circle {
+	border-style: solid;
+	border-color: rgb(220, 220, 220);
+	border-width: 0.5px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.card-main {
+	display: inline-block;
+	margin-bottom: 12px;
+}
+
+h4 {
+	font-size: 25px;
+}
+
+.tag {
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+  color: #999;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 10px 0 10px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.tag:hover {
+  background-color: #38ada9;
+  color: white;
+}
+
+.list-inline {
+  display: flex;
+  margin: 0 auto;
+  width: 150px;
+}
+
