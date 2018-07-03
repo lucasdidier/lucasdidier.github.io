@@ -47,12 +47,12 @@
 }
 
 .blue {
-  background-color: #38ada9;
-  box-shadow: 0px 5px 0px 0px #2C8784;
+  background-color: #1e3799;
+  box-shadow: 0px 5px 0px 0px #111F56;
 }
 
 .blue:hover {
-  background-color: #39B7B3;
+  background-color: #2746BF;
   color: #fff;
 }
 

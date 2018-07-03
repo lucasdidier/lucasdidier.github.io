@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1000px" viewBox="0 0 1440 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="767.074659 845.268496 773.90702 845.268496 778.990839 852.268496 761.990839 852.268496"></polygon>
+        <rect id="path-2" x="1366.34225" y="865.498434" width="11" height="11" rx="3"></rect>
+        <rect id="path-3" x="595.434737" y="433.828866" width="10" height="10" rx="3"></rect>
+        <rect id="path-4" x="230.525035" y="685.953731" width="7" height="7" rx="3"></rect>
+        <rect id="path-5" x="74.4767812" y="34.4075235" width="8" height="8" rx="3"></rect>
+        <rect id="path-6" x="921.32536" y="28.5412956" width="15" height="15" rx="3"></rect>
+        <rect id="path-7" x="358.085845" y="316.006464" width="13" height="13" rx="3"></rect>
+        <rect id="path-8" x="619.835209" y="652.422844" width="5" height="5" rx="2.5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <polygon id="Triangle" stroke="#6A89CC" fill="#6A89CC" opacity="0.81" transform="translate(102.767757, 368.376760) rotate(-124.000000) translate(-102.767757, -368.376760) " points="101.448571 354.87676 98.7677567 381.87676 106.767757 362.580026"></polygon>
+            <polygon id="Triangle" stroke="#6A89CC" fill="#6A89CC" opacity="0.82" transform="translate(1240.975155, 64.735836) rotate(-256.000000) translate(-1240.975155, -64.735836) " points="1239.98577 53.2358356 1237.97516 76.2358356 1243.97516 59.7978768"></polygon>
+            <g id="Rectangle-2" opacity="0.94" transform="translate(770.490839, 848.768496) rotate(-325.000000) translate(-770.490839, -848.768496) ">
+                <use fill="#E55039" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#E55039" stroke-width="1" d="M767.32948,845.768496 L762.97192,851.768496 L778.009759,851.768496 L773.652199,845.768496 L767.32948,845.768496 Z"></path>
+            </g>
+            <polygon id="Polygon" stroke="#78E08F" fill="#78E08F" opacity="0.82" transform="translate(984.861272, 542.234358) rotate(-68.000000) translate(-984.861272, -542.234358) " points="984.861272 538.234358 990.361272 541.290086 988.260459 546.234358 981.462085 546.234358 979.361272 541.290086"></polygon>
+            <polygon id="Polygon" stroke="#78E08F" fill="#78E08F" opacity="0.82" transform="translate(526.781143, 152.964000) rotate(-219.000000) translate(-526.781143, -152.964000) " points="526.781143 146.464 535.281143 151.429558 532.034432 159.464 521.527854 159.464 518.281143 151.429558"></polygon>
+            <polygon id="Polygon" stroke="#78E08F" fill="#78E08F" transform="translate(1245.415000, 542.691953) rotate(-342.000000) translate(-1245.415000, -542.691953) " points="1245.415 539.191953 1249.415 541.865716 1247.88714 546.191953 1242.94286 546.191953 1241.415 541.865716"></polygon>
+            <polygon id="Triangle-2" stroke="#F8C291" fill="#F8C291" opacity="0.95" transform="translate(426.531078, 875.653748) rotate(-22.000000) translate(-426.531078, -875.653748) " points="426.531078 871.153748 437.531078 880.153748 415.531078 874.153744"></polygon>
+            <polygon id="Triangle-2" stroke="#F8C291" fill="#F8C291" opacity="0.7" transform="translate(96.287837, 890.726733) rotate(-304.000000) translate(-96.287837, -890.726733) " points="96.2878374 887.226733 104.287837 894.226733 88.2878373 889.560063"></polygon>
+            <polygon id="Triangle-3" stroke="#FA983A" fill="#FA983A" opacity="0.9" transform="translate(1320.343322, 324.999194) rotate(-221.000000) translate(-1320.343322, -324.999194) " points="1320.34332 313.999194 1325.34332 335.999194 1315.34332 326.13686"></polygon>
+            <g id="Rectangle" opacity="0.9" transform="translate(1371.842249, 870.998434) rotate(-265.000000) translate(-1371.842249, -870.998434) ">
+                <use fill="#079992" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#079992" stroke-width="1" x="1366.84225" y="865.998434" width="10" height="10" rx="3"></rect>
+            </g>
+            <g id="Rectangle" opacity="0.75" transform="translate(600.434737, 438.828866) rotate(-276.000000) translate(-600.434737, -438.828866) ">
+                <use fill="#079992" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#079992" stroke-width="1" x="595.934737" y="434.328866" width="9" height="9" rx="3"></rect>
+            </g>
+            <g id="Rectangle" opacity="0.93" transform="translate(234.025035, 689.453731) rotate(-68.000000) translate(-234.025035, -689.453731) ">
+                <use fill="#B71540" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#B71540" stroke-width="1" x="231.025035" y="686.453731" width="6" height="6" rx="3"></rect>
+            </g>
+            <g id="Rectangle" opacity="0.75" transform="translate(78.476781, 38.407523) rotate(-205.000000) translate(-78.476781, -38.407523) ">
+                <use fill="#B71540" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#B71540" stroke-width="1" x="74.9767812" y="34.9075235" width="7" height="7" rx="3"></rect>
+            </g>
+            <g id="Rectangle" opacity="0.84" transform="translate(928.825360, 36.041296) rotate(-49.000000) translate(-928.825360, -36.041296) ">
+                <use fill="#B71540" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <rect stroke="#B71540" stroke-width="1" x="921.82536" y="29.0412956" width="14" height="14" rx="3"></rect>
+            </g>
+            <g id="Rectangle" opacity="0.85" transform="translate(364.585845, 322.506464) rotate(-47.000000) translate(-364.585845, -322.506464) ">
+                <use fill="#B71540" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#B71540" stroke-width="1" x="358.585845" y="316.506464" width="12" height="12" rx="3"></rect>
+            </g>
+            <rect id="Rectangle-3" fill-opacity="0.5" fill="#FFFFFF" x="0" y="0" width="1440" height="1000"></rect>
+            <g id="Rectangle" opacity="0.9" transform="translate(622.335209, 654.922844) rotate(-145.000000) translate(-622.335209, -654.922844) ">
+                <use fill="#B71540" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#B71540" stroke-width="1" x="620.335209" y="652.922844" width="4" height="4" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
